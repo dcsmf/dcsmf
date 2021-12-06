@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, this is dcsmf 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcsmf&show_icons=true)
+
+- 🔭 I’m currently working on Vue, php, Java
+- 🌱 I’m currently learning Java and JavaScript
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcsmf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dcsmf/dcsmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
