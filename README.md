@@ -2,8 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcsmf&show_icons=true)
 
-- 🔭 I’m currently working on Vue, php, Java
-- 🌱 I’m currently learning Java and JavaScript
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning JavaScript, php, Vue
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcsmf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
