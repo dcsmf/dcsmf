@@ -5,9 +5,10 @@
 - 🔭 I’m currently working on **Java**
 - 🌱 I’m currently learning languages are **Kotlin**, **JavaScript**
 - 🌱 I’m currently learning libs are **SpringCloud**, **SpringBoot**, **Vue.js**
-<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcsmf&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **dcsmf/dcsmf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
