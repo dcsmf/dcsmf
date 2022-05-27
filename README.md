@@ -8,6 +8,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java中的联合类型是怎么回事](http://dcsmf.github.io/post/729d788b/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
