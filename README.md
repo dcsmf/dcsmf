@@ -1,4 +1,4 @@
-### Hi there, this is dcsmf 👋
+![Header](./img/github-header-image.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcsmf&show_icons=true&locale=cn)
 
