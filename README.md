@@ -3,8 +3,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcsmf&show_icons=true&locale=cn)
 
 - 🔭 I’m currently working on **Java**
-- 🌱 I’m currently learning languages are **Kotlin**, **JavaScript**
-- 🌱 I’m currently learning libs are **SpringCloud**, **SpringBoot**, **Vue.js**
+- 🌱 I’m currently learning languages are **Kotlin**, **Rust**
+- 🌱 I’m currently learning libs are **SpringCloud**, ~~**SpringBoot**~~, ~~**Vue.js**~~
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
