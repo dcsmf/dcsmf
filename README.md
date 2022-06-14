@@ -8,6 +8,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java中常用的Stream流操作](http://dcsmf.github.io/post/d861ab24/)
 - [Java中的联合类型是怎么回事](http://dcsmf.github.io/post/729d788b/)
 <!-- BLOG-POST-LIST:END -->
 
