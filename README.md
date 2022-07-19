@@ -8,6 +8,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [关于开源协议的选择](http://dcsmf.github.io/post/2fb0f490/)
 - [Java中常用的Stream流操作](http://dcsmf.github.io/post/d861ab24/)
 - [Java中的联合类型是怎么回事](http://dcsmf.github.io/post/729d788b/)
 <!-- BLOG-POST-LIST:END -->
