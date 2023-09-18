@@ -8,6 +8,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java的常用@SuppressWarnings注解](http://dcsmf.github.io/post/8809bc/)
 - [如何通过GitHub Actions部署跨平台的Rust程序](http://dcsmf.github.io/post/40f7a3b2/)
 - [关于开源协议的选择](http://dcsmf.github.io/post/2fb0f490/)
 - [Java中常用的Stream流操作](http://dcsmf.github.io/post/d861ab24/)
