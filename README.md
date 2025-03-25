@@ -8,11 +8,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [必应每日一图API](http://dcsmf.github.io/post/3c706607/)
 - [在终端打印彩色字体](http://dcsmf.github.io/post/3bd7e928/)
 - [Java常见坑总结](http://dcsmf.github.io/post/466d2d9/)
 - [gradle的全局镜像和编码设置](http://dcsmf.github.io/post/fb76cefb/)
 - [Java的常用@SuppressWarnings注解](http://dcsmf.github.io/post/8809bc/)
-- [如何通过GitHub Actions部署跨平台的Rust程序](http://dcsmf.github.io/post/40f7a3b2/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
